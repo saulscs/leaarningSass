@@ -1,0 +1,16 @@
+{
+    "version": 3,
+    "mappings": "ACAA;;+BAE+B;AAE/B;;EAEE;ACNF,AAAA,KAAK,CAAC,EAAE,AAAA,MAAM,CAAA;EACV,gBAAgB,EAAE,IAAI;CACzB;;ACFD;;+BAE+B;ACF/B;;+BAE+B;ACF/B;;+BAE+B;ACF/B;;+BAE+B;ACF/B;;+BAE+B",
+    "sources": [
+        "style.scss",
+        "lib/_variables.scss",
+        "_tablas.scss",
+        "base/_buttons.scss",
+        "base/_links.scss",
+        "base/_type.scss",
+        "components/_grid.scss",
+        "components/_utilities.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
