@@ -1,14 +1,16 @@
 {
     "version": 3,
-    "mappings": "ACAA;;+BAE+B;AAE/B;;EAEE;ACNF,AAAA,KAAK,CAAC,EAAE,AAAA,MAAM,CAAA;EACV,gBAAgB,EAAE,IAAI;CACzB;;ACFD;;+BAE+B;ACF/B;;+BAE+B;ACF/B;;+BAE+B;ACF/B;;+BAE+B;ACF/B;;+BAE+B",
+    "mappings": "ACAA;;+BAE+B;AAE/B;;EAEE;ACNF;;+BAE+B;ACF/B,AAAA,KAAK,CAAC,EAAE,AAAA,MAAM,CAAA;EACV,gBAAgB,EFON,OAAO;CENpB;;ACFD;;+BAE+B;AAC/B,AAAA,IAAI,CAAA;EACA,OAAO,EAAE,YAAY;EACrB,KAAK,EHUK,KAAgB;EGT1B,gBAAgB,EHEN,OAAO;EGDjB,WAAW,EAAE,GAAG;EAChB,aAAa,EH4BD,GAAG;EG3Bf,SAAS,EHwBI,IAAmB;CGvBnC;;AAEG,AAAA,SAAS,CAAA;EACL,SAAS,EAAE,IAAI;CAClB;;AAED,AAAA,UAAU,CAAA;EACN,gBAAgB,EHIV,OAAe;CGHxB;;AClBL;;+BAE+B;ACF/B;;+BAE+B;ACF/B;;+BAE+B;ACF/B,AAAA,OAAO,CAAC;ENKJ,SAAS,EADe,KAAK;EAE7B,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI;EMLlB,gBAAgB,EPYF,OAAO;EOXrB,OAAO,EPkCD,IAAI;COjCb;;ACJD;;+BAE+B",
     "sources": [
         "style.scss",
         "lib/_variables.scss",
+        "lib/_mixins.scss",
         "_tablas.scss",
         "base/_buttons.scss",
         "base/_links.scss",
         "base/_type.scss",
         "components/_grid.scss",
+        "layout/_layout.scss",
         "components/_utilities.scss"
     ],
     "names": [],

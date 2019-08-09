@@ -1,5 +1,6 @@
 //libraries, settings, variables
 @import "lib/variables";
+@import "lib/mixins";
 
 //basic elements
 @import "tablas";
@@ -9,6 +10,10 @@
 
 
 //components
-
 @import "components/grid.scss";
+
+//layout
+@import "layout/layout";
+
+//this last one
 @import "components/utilities";

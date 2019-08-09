@@ -4,13 +4,33 @@
 /*
  Branding colors 
 */
+/*---------------------------*\ 
+ $MIXINS
+\*---------------------------*/
 table tr:hover {
-  background-color: peru;
+  background-color: #ea83ee;
 }
 
 /*---------------------------*\ 
  $BUTTONS
 \*---------------------------*/
+.btn {
+  display: inline-block;
+  color: white;
+  background-color: #ea83ee;
+  line-height: 2.5;
+  border-radius: 3px;
+  font-size: 24px;
+}
+
+.btn_icon {
+  font-size: .6em;
+}
+
+.btn--info {
+  background-color: #42b8dd;
+}
+
 /*---------------------------*\ 
  $LINKS
 \*---------------------------*/
@@ -20,6 +40,14 @@ table tr:hover {
 /*---------------------------*\ 
  $GRID
 \*---------------------------*/
+section {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #bfbfbf;
+  padding: 24px;
+}
+
 /*---------------------------*\ 
  $UTILITIES
 \*---------------------------*/

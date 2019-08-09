@@ -21,3 +21,18 @@ $color-alert: rgb(252,228,207);
 $color-error: rgb(218,79,73);
 $color-info:  rgb(66,184,221);
 $color-succes:rgb(91,183,91);
+
+//typography
+
+$baseFont:'Quicksand', sans-serif;
+$baseFontsize: 16px;
+
+//button color
+
+$buttonColor: $color-white;
+$buttonBackgroundColor: $color-brand; 
+$buttonFontSize: $baseFontsize * 1.5;
+//consts
+
+$border-radius: 3px;
+$padding: 24px;
