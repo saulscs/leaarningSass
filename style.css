@@ -48,6 +48,16 @@ section {
   padding: 24px;
 }
 
+.max-width--huge {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header {
+  background-color: #ea83ee;
+}
+
 /*---------------------------*\ 
  $UTILITIES
 \*---------------------------*/
